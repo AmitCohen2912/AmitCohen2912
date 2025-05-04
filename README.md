@@ -5,7 +5,7 @@
 - 🧠 Curious by nature — always eager to learn and improve
 - 🧩 Enjoy solving challenges, building logic, and understanding how systems work
 - 🔍 Open to exploring other areas in tech as well
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amitcohen90/) | [Email](mailto:airamit90@gmail.com)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amitcohen2912/) | [Email](mailto:airamit90@gmail.com)
 
 ---
 
@@ -65,5 +65,5 @@
 ---
 
 🚀 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitcohen90/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitcohen2912/)  
 [![Email](https://img.shields.io/badge/Email-Me)](mailto:airamit90@gmail.com)
