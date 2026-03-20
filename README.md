@@ -33,7 +33,7 @@ A C++ client-server application that implements a custom protocol over TCP for f
 * Includes validation logic and edge-case handling
 * Developed a CLI-based client for interaction with the server 
 
-👉 [Explore the project:](#) (https://github.com/AmitCohen2912/tcp-backup-server)
+🔗 **[Explore the project](https://github.com/AmitCohen2912/tcp-backup-server)**
 
 ---
 
