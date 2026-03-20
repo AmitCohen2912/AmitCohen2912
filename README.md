@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Amit
 
 🎯 **About Me**
+
 Computer Science student focused on backend and systems development.
 I enjoy building real-world systems, understanding how they work under the hood, and continuously improving my technical skills.
 
